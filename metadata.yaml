@@ -1,0 +1,35 @@
+_repo: The-Day-Before-Yesterday_53357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Middleton, Richard
+    alias: Middleton, Richard Barham
+    birthdate: 1882
+    deathdate: 1911
+    gutenberg_agent_id: '3811'
+    url: http://www.gutenberg.org/2009/agents/3811
+description: ''
+gutenberg_issued: '2016-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Children'
+- !lcsh 'English essays -- 20th century'
+- GITenberg
+tableOfContents: An enchanted place -- A railway journey -- The magic pool -- The
+  story-teller -- Admirals all -- A repertory theatre -- Children and the spring --
+  On nursery cupboards -- The fat man -- Carol singers -- The magic carpet -- Stage
+  children -- Oxford and Cambridge -- Harold -- On digging holes -- Real cricket --
+  The boy in the garden -- Children and the sea -- On going to bed -- Street organs
+  -- A secret society -- The price of peace -- On children's gardens -- A distinguished
+  guest -- On pirates -- The flute player -- The wool-gatherer -- The peril of the
+  fairies -- Drury Lane and the children -- Children's drama -- Childhood in retrospect
+  -- The folly of education -- On common sense.
+title: The Day Before Yesterday
+url: http://www.gutenberg.org/ebooks/53357
